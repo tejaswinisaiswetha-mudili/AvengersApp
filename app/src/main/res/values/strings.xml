@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AvengersApp</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="tony_starkindustries_com">tony@starkindustries.com</string>
+    <string name="password">Enter your password</string>
+    <string name="forgotPassword">ForgotPassword?</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="preference_file_name">Avengers Preferences</string>
+</resources>
